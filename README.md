@@ -13,3 +13,7 @@ If I had more time, I would try to find a way to use .stopPropagation when closi
 ## View it live
 
 Project deployed here: [Guess Paw](https://guess-paw.netlify.app/)
+
+<div align="center">
+  <img src="screenshot.jpg" />
+</div>
