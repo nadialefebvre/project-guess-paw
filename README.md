@@ -1,10 +1,16 @@
 # Project Guess Paw
 
-Weekly project for Technigo's bootcamp, week 5: build a game
+Weekly project for Technigo's bootcamp, week 5: build a game (February 2022)
 
-The project is to create my own digital version of the classic board game Guess Who in order to practice creating objects and arrays with all focus on the JavaScript part.
+## Tech stack
+
+- JavaScript
+- HTML
+- CSS
 
 ## The problem
+
+The project is to create my own digital version of the classic board game Guess Who in order to practice creating objects and arrays with all focus on the JavaScript part.
 
 Since we had some starter code to work with, I started by reading it carefully for a better understanding. When I felt that I understood the JavaScript code, I added what was needed to generate the board, select the questions, and so on. When the minimal requirements were met (a functional Guess who game), I customised it with new images and I changed the array. I did not touch much the styling, since I wanted to keep the focus on the JavaScript part. I used customised alerts as well, using Sweet Alert. It created some issues that I had to solve but it was a great learning experience. Also, to give some examples, I added three counters (attempts, rounds and wins) that are all displayed at the appropriate moment, I added a box where the player needs to add their name which is used later on the win-or-lose page, I added sound effects when the player wins/loses and I made it so the filter has a different result on desktop and mobile (card replaced by logo on desktop and removed on mobile). I didn't want to add a timer since I don't like it in a game but I added a limit for the number of attempts.
 
